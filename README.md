@@ -9,21 +9,19 @@
 
 ---
 
-<br/>
-
 ### 🤖 **Linguagens & Tecnologias**
 
 <p>
     <img 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-        aligh="left"
+        align="left"
         width="44px"
         style="padding-right: 10px"
         title="HTML"
         alt="HTML"
     />
     <img 
-        aligh="left"
+        align="left"
         width="44px"
         style="padding-right: 10px"
         title="CSS"
@@ -32,7 +30,7 @@
     />
     <img 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-        aligh="left"
+        align="left"
         width="44px"
         style="padding-right: 10px"
         title="Javascript"
@@ -40,7 +38,7 @@
     /> 
     <img 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-        aligh="left"
+        align="left"
         width="44px"
         style="padding-right: 10px"
         title="Typescript"
@@ -48,7 +46,7 @@
     />
     <img 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" 
-        aligh="left"
+        align="left"
         width="44px"
         style="padding-right: 10px"
         title="React Native"
@@ -56,7 +54,7 @@
     />
     <img 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" 
-        aligh="left"
+        align="left"
         width="44px"
         style="padding-right: 10px"
         title="EXPO"
@@ -64,28 +62,29 @@
     />
     <img 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-        aligh="left"
+        align="left"
         width="44px"
         style="padding-right: 10px"
         title="Git"
         alt="Git"
     />           
-<p/>   
+</p>   
 
+<br/>
 <br/>
 
 ### 📋 **Estatística**
 
 
 <img
-    aligh="left"
+    align="left"
     height="200px"
     style="padding-right: 10px"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=LuizgarciafilhoDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 <img
-    aligh="left"
+    align="left"
     height="200px"
     style="padding-right: 10px"
     alt="Github Stats"
